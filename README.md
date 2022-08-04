@@ -11,8 +11,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 무직
-- 🌱 I’m currently learning 이젠아카데미
+- 🔭 I’m currently working on front-end
+- 🌱 I’m currently learning 이젠아카데미 (2022.08.03 ~ 2022.12.28)
 - 💬 Ask me about kanghyungu3614@naver.com
 - ⚡ Fun fact: no fun(노잼)
 
