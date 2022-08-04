@@ -12,8 +12,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on front-end
-- 🌱 I've learned from Codestates in the past.(2021.01.18 ~ 2022.01.18)
-- 🌱 I’m currently learning Ezen Academy (2022.08.03 ~ 2022.12.28)
+- 🌱 I’m lately CodeStates (2021.01.18 ~ 2022.01.18)
+- 🌱 I’m currently learning EzenAcademy (2022.08.03 ~ 2022.12.28)
 - 💬 Ask me about kanghyungu3614@naver.com
 - ⚡ Fun fact: no fun(노잼)
 
