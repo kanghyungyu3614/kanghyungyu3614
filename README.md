@@ -34,3 +34,4 @@ Dillinger uses a number of open source projects to work properly:
 - [Breakdance](https://breakdance.github.io/breakdance/) - HTML
 to Markdown converter
 - [jQuery] - duh
+
