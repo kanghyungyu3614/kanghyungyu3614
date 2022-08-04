@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 <code><img height="40" alt="sequelize" src="https://github.com/sequelize/sequelize/blob/main/logo.svg"></code>
 <code><img height="40" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" alt="java" src="https://github.com/spring-projects/spring-framework/blob/main/src/docs/spring-framework.png"></code>
+<code><img height="40" alt="Mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
