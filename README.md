@@ -1,12 +1,15 @@
 ### Hi there 👋 
 **kanghyungyu3614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghyungyu3614&show_icons=true&theme=radical)
+![kanghyungyu3614's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghyungyu3614&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanghyungyu3614&langs_count=8)](https://github.com/kanghyungyu3614/github-readme-stats)
 
 
+| <a href="https://github.com/kanghyungyu3614/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kanghyungyu3614&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/kanghyungyu3614/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanghyungyu3614&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
 
 Here are some ideas to get you started:
 
