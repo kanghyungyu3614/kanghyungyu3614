@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+**kanghyungyu3614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghyungyu3614&show_icons=true&theme=radical)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanghyungyu3614&langs_count=8)](https://github.com/kanghyungyu3614/github-readme-stats)
 
-**kanghyungyu3614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
