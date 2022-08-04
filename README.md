@@ -1,9 +1,11 @@
  [![kanghyungyu3614's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghyungyu3614&count_private=true&show_icons=true&theme=radical)](https://github.com/kanghyungyu3614/github-readme-stats) 
- <a href="https://github.com/kanghyungyu3614/github-readme-stats"><img  width=50%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanghyungyu3614&layout=compact&theme=buefy&hide_border=true"/></a> 
+ 
 
 
 ### Hi there 👋 
 **kanghyungyu3614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanghyungyu3614&layout=compact)](https://github.com/kanghyungyu3614/github-readme-stats)
 
 #### Top Repositories
 
