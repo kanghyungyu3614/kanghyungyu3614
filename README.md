@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Back-end
 - 🌱 I've been learning at CodeStates in the past. (2021.01.18 ~ 2022.01.28)
 - 🌱 I’m currently learning EzenAcademy (2022.08.03 ~ 2022.12.29)
-- 💬 Ask me about 
+- ⚡ Fun fact: no fun(노잼)
+## 💬 Ask me about 
 <a href="https://www.youtube.com/watch?v=L4d08nVX2Vs"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/youtube.png" width="30px" height="30px"></a>
 <a href="https://discord.gg/47cdDTqs"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/discord.png" width="30px" height="30px"></a>
 <a href="https://discord.gg/47cdDTqs"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/kakao.png" width="30px" height="30px"></a> 
 <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSMVxZPFbxknSCXvjhDcvPwTzfgsvKXCspPNRxJJpMfMLvSMQJSkSNgqkqlvwKGmtsplbWJF"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/gmail.png" width="30px" height="30px"></a> 
 <a href="https://kanghyungu.tistory.com/"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/tistory.png" width="30px" height="30px"></a> 
 <a href="https://www.notion.so/f4582f7db1bf4b26a3b0aced4c30005d"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/notion.png" width="30px" height="30px"></a> 
-- ⚡ Fun fact: no fun(노잼)
+
 
 ## Front-end Tech
 <code><img height="40" alt="HTML" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
