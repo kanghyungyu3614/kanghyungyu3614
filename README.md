@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about 
 <a href="https://discord.gg/47cdDTqs"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/kakao.png" width="30px" height="30px"></a> 
 <a href="https://discord.gg/47cdDTqs"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/discord.png" width="30px" height="30px"></a>
-<a href="https://discord.gg/47cdDTqs"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/gmail.png" width="30px" height="30px"></a> 
+<a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSMVxZPFbxknSCXvjhDcvPwTzfgsvKXCspPNRxJJpMfMLvSMQJSkSNgqkqlvwKGmtsplbWJF"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/gmail.png" width="30px" height="30px"></a> 
 - ⚡ Fun fact: no fun(노잼)
 
 ## Front-end Tech
