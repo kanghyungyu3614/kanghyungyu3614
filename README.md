@@ -1,6 +1,6 @@
 <code><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/%EC%B1%85%EC%9E%A52.png" width="100%" height="200px"></code>
 
-## Hi there  👋 
+## :full_moon_with_face: Hi there  👋 
 **kanghyungyu3614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## :chart_with_upwards_trend: Top Repositories
