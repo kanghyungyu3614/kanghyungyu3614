@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 💬 Ask me about 
 <a href="https://www.youtube.com/watch?v=L4d08nVX2Vs"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/youtube.png" width="30px" height="30px"></a>
 <a href="https://discord.gg/47cdDTqs"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/discord.png" width="30px" height="30px"></a>
-<a href="https://discord.gg/47cdDTqs"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/kakao.png" width="30px" height="30px"></a> 
+<a href="https://open.kakao.com/o/sSrokERe"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/kakao.png" width="30px" height="30px"></a> 
 <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSMVxZPFbxknSCXvjhDcvPwTzfgsvKXCspPNRxJJpMfMLvSMQJSkSNgqkqlvwKGmtsplbWJF"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/gmail.png" width="30px" height="30px"></a> 
 <a href="https://kanghyungu.tistory.com/"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/tistory.png" width="30px" height="30px"></a> 
 <a href="https://www.notion.so/f4582f7db1bf4b26a3b0aced4c30005d"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/notion.png" width="30px" height="30px"></a> 
