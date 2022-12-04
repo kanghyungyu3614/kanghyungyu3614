@@ -4,6 +4,10 @@
 
 ### Hi there 👋 
 **kanghyungyu3614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div display:flex>
+<img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/discord.png" width="40x" height="40px">
+<img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/kakao.png" href="https://discord.gg/47cdDTqs" width="40x" height="40px">
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanghyungyu3614&layout=compact)](https://github.com/kanghyungyu3614)
 
