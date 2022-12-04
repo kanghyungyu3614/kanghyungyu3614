@@ -11,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Back-end
+- 🔭 I’m currently working on Web Back-end
 - 🌱 I've been learning at CodeStates in the past. (2021.01.18 ~ 2022.01.28)
 - 🌱 I’m currently learning EzenAcademy (2022.08.03 ~ 2022.12.29)
 - ⚡ Fun fact: no fun(노잼)
