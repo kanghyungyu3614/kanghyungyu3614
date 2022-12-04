@@ -1,9 +1,9 @@
 <code><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/%EC%B1%85%EC%9E%A52.png" width="100%" height="200px"></code>
 
-## :full_moon_with_face: Hi there   
+## :full_moon_with_face: Hi there :raised_hand:   
 👋 **kanghyungyu3614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## :chart_with_upwards_trend: Top Repositories
+## :chart_with_upwards_trend: Top Repositories :books:
 <a href="https://github.com/kanghyungyu3614"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kanghyungyu3614&card_width=400px&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" alt="kanghyungyu3614's github stats" /></a>
 <a href="https://github.com/kanghyungyu3614"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanghyungyu3614&show_icons=true&layout=compact&theme=radical" alt="kanghyungyu3614's github stats" /></a>
 
