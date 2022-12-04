@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/47cdDTqs"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/discord.png" width="30px" height="30px"></a>
 <a href="https://discord.gg/47cdDTqs"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/kakao.png" width="30px" height="30px"></a> 
 <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSMVxZPFbxknSCXvjhDcvPwTzfgsvKXCspPNRxJJpMfMLvSMQJSkSNgqkqlvwKGmtsplbWJF"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/gmail.png" width="30px" height="30px"></a> 
+<a href="https://kanghyungu.tistory.com/"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/tistory.png" width="30px" height="30px"></a> 
+<a href="https://www.notion.so/f4582f7db1bf4b26a3b0aced4c30005d"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/notion.png" width="30px" height="30px"></a> 
 - ⚡ Fun fact: no fun(노잼)
 
 ## Front-end Tech
