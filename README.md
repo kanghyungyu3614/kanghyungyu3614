@@ -4,7 +4,7 @@
 **kanghyungyu3614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-[![kanghyungyu3614's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghyungyu3614&count_private=true&show_icons=true&theme=radical&width=100px)](https://github.com/kanghyungyu3614) 
+[![kanghyungyu3614's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghyungyu3614&count_private=true&show_icons=true&theme=radical&card_width=400px)](https://github.com/kanghyungyu3614) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanghyungyu3614&layout=compact)](https://github.com/kanghyungyu3614)
 
 ## Top Repositories
