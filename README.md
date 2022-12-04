@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning EzenAcademy (2022.08.03 ~ 2022.12.29)
 - ⚡ Fun fact: no fun(노잼)
 ## 💬 Ask me about 
-<a href="https://www.youtube.com/watch?v=L4d08nVX2Vs"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/youtube.png" width="30px" height="30px"></a>
+<a href="https://www.youtube.com/watch?v=L4d08nVX2Vs"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/%EC%9C%A0%ED%8A%9C%EB%B8%8C2.png" width="30px" height="30px"></a>
 <a href="https://discord.gg/47cdDTqs"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/discord.png" width="30px" height="30px"></a>
 <a href="https://open.kakao.com/o/sSrokERe"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/kakao.png" width="30px" height="30px"></a> 
 <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSMVxZPFbxknSCXvjhDcvPwTzfgsvKXCspPNRxJJpMfMLvSMQJSkSNgqkqlvwKGmtsplbWJF"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/gmail.png" width="30px" height="30px"></a> 
