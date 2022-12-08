@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://www.notion.so/f4582f7db1bf4b26a3b0aced4c30005d"><img src="https://github.com/kanghyungyu3614/kanghyungyu3614/blob/main/img%ED%8F%B4%EB%8D%94/notion.png" width="30px" height="30px"></a> 
 
 
-## 🛠 Front-end Tech :whale:
+## :whale: Front-end Tech :whale:
 <code><img height="30" alt="HTML" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="30" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <code><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
-## 🛠 Back-end Tech :fire:
+## :fire: Back-end Tech :fire:
 <code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" alt="sequelize" src="https://github.com/sequelize/sequelize/blob/main/logo.svg"></code>
 <code><img height="30" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
