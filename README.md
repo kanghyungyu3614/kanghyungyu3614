@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 
 ## :key: Project  :bank:
 ### 1. Bank Project : <a href="https://github.com/kanghyungyu3614/Bank">:money_with_wings: 은행 프로젝트 :lock: </a> 입니다. 
-<a href="https://github.com/kanghyungyu3614/Bank">동영상주소</a>  <a href="https://github.com/kanghyungyu3614/Bank">PPT주소</a>
+<a href="https://github.com/kanghyungyu3614/Bank">동영상주소</a>  <a href="https://github.com/kanghyungyu3614/Bank">PPT주소</a> <a href="https://rigorous-gerbera-0de.notion.site/Bank-site-project-e401dc22ee3c4df594e4a40bd79f12dc">노션주소</a>
 
