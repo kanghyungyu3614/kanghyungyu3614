@@ -40,4 +40,6 @@ Here are some ideas to get you started:
 ## :key: Project  :bank:
 ### 1. Bank Project : :money_with_wings:<a href="https://github.com/kanghyungyu3614/Bank">은행 프로젝트</a>:lock: 입니다. 
   (1)<a href="https://github.com/kanghyungyu3614/Bank">프로젝트 동영상</a>  (2)<a href="https://github.com/kanghyungyu3614/Bank">기술영상</a>  (3)<a href="https://github.com/kanghyungyu3614/Bank">PPT주소</a>  (4)<a href="https://rigorous-gerbera-0de.notion.site/Bank-site-project-e401dc22ee3c4df594e4a40bd79f12dc">노션주소</a>
+### 2. Shoes Project : 👟<a href="https://bit.ly/3VmEFQY">shoes 프로젝트</a>:mans_shoe: 입니다. 
+  (1)<a href="https://www.youtube.com/watch?v=XcJc5SDYR_E">프로젝트 동영상</a> (2)<a href="https://www.canva.com/design/DAFRocEeNNc/XJJRa-kNiGRpmEEhnReaLw/edit">PPT주소</a>  (3)<a href="https://www.notion.so/3-b4a21c2fa21040e0a13de2fafb0f7d8b">노션주소</a>
 
